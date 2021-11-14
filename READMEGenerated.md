@@ -23,13 +23,13 @@ Licensed for open source through Creative Commons. Visit http://creativecommons.
     
 "As a USER I want "to show cute pictures of my doggo Marley
     
-"So THAT "she can look cute and fluffy!
+"So THAT "she can look all cute and fluffy!
     
 <a name = "description"></a>
     
 ## Description
     
-This is a program designed to take inputs in terminal and generate a README file. Enjoy!
+This is a program designed to take inputs from a user in terminal and develop a README file. Enjoy!
     
 <a name = "linksImages"></a>
     
@@ -41,7 +41,7 @@ This is a program designed to take inputs in terminal and generate a README file
     
 <img src = './assets/images/marleyShot1.png'>
     
-<img src = './assets/images/marleyShot1.png'>
+<img src = './assets/images/marleyShot2.png'>
     
 <a name = "author"></a>
     
